@@ -7,4 +7,8 @@ import App from './components/App';
 
 const container = document.getElementById('app');
 
+<<<<<<< HEAD
 ReactDOM.render(<App />, container);
+=======
+ReactDOM.render(<App />, container);
+>>>>>>> dev
